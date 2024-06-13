@@ -1,4 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+function add() {
+  console.log("haha");
+}
+
+</script>
 
 <template>
   <div class="box">
